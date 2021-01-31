@@ -9,3 +9,5 @@ inoremap jk <ESC>
 
 vnoremap < <gv
 vnoremap > >gv
+
+set autoindent
